@@ -17,5 +17,6 @@ public class Main {
 		Transaction saque = new Transaction(enterprise, client, 500.0, "saque");
 		saque.executar(); // Executa o saque
 	}
+	//testando commit
 	
 }
